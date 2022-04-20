@@ -1,16 +1,24 @@
-### Full Stack Developer
+Développeur Full Stack
 
-<!--
-**michel-lamarliere/michel-lamarliere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack
 
-Here are some ideas to get you started:
+- JavaScript
+- TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Client:
+- HTML
+- CSS, Scss
+- React
+- Redux
+
+Server:
+- NodeJS
+- Express
+- MongoDB
+
+Libraries préférées:
+- date-fns
+## 🔗 Liens
+* [Mon portfolio](https://michel-lamarliere.com/)
+* [Ma page linkedin](https://www.linkedin.com/michel-lamarliere)
+
