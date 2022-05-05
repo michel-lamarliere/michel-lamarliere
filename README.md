@@ -7,7 +7,7 @@ Développeur Full Stack
 
 Client:
 - HTML
-- CSS, Scss
+- CSS, Sass
 - React
 - Redux
 
@@ -18,6 +18,7 @@ Server:
 
 Libraries préférées:
 - date-fns
+- 
 ## 🔗 Liens
 * Me contacter: contact@michel-lamarliere.com
 * [Mon portfolio](https://michel-lamarliere.com/)
