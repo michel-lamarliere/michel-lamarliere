@@ -18,7 +18,7 @@ Server:
 
 Libraries préférées:
 - date-fns
-- 
+
 ## 🔗 Liens
 * Me contacter: contact@michel-lamarliere.com
 * [Mon portfolio](https://michel-lamarliere.com/)
