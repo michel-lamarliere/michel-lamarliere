@@ -1,23 +1,20 @@
-Développeur Full Stack
+Développeur Front-end
 
 ## Stack
 
 - JavaScript
 - TypeScript
 
-Client:
+Front-end:
 - HTML
 - CSS, Sass
 - React
 - Redux
 
-Server:
+Back-end:
 - NodeJS
 - Express
 - MongoDB
-
-Libraries préférées:
-- date-fns
 
 ## 🔗 Liens
 * Me contacter: contact@michel-lamarliere.com
