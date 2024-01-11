@@ -1,4 +1,4 @@
-# Développeur Full Stack spécialisé Front-end
+# Développeur Full Stack spécialisé Front-end (TypeScript, React, NodeJS)
 
 * Me contacter: contact@michel-lamarliere.com
 * [Mon portfolio](https://michel-lamarliere.com/)
