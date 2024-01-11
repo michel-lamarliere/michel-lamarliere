@@ -1,4 +1,4 @@
-Développeur Full Stack spécialisé Front-end
+# Développeur Full Stack spécialisé Front-end
 
 ## 🔗 Liens
 * Me contacter: contact@michel-lamarliere.com
